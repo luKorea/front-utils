@@ -1,0 +1,19 @@
+{
+  "name": "korea-utils",
+  "version": "0.0.1",
+  "description": "常用前端工具函数整理",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "工具",
+    "js"
+  ],
+  "author": "CoderEngineer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:luKorea/front-utils.git"
+  }
+}
